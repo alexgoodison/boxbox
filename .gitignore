@@ -1,5 +1,7 @@
 # Created based on templates found from https://github.com/toptal/gitignore
 
+TODO.md
+
 # dependencies
 /node_modules
 */node_modules/*
